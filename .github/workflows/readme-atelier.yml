@@ -1,0 +1,43 @@
+# Rebuilds the editorial cards every day. Terminal SVGs are static and are not rewritten here.
+name: Readme Atelier
+
+on:
+  schedule:
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - atelier.yml
+      - .github/workflows/readme-atelier.yml
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.1.0
+
+      - name: Build cards
+        uses: monokernn/readme-atelier@37869cbb55133bd8594c068a45d77e10556b2dfb # v1
+        with:
+          config: atelier.yml
+          token: ${{ github.token }}
+          commit: "false"
+
+      - name: Patch header label
+        run: python3 scripts/patch_header.py
+
+      - name: Commit refreshed cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md atelier
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore(atelier): refresh profile"
+            git push
+          fi

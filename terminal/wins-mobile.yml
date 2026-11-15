@@ -1,0 +1,51 @@
+# $ cat wins.log — narrow fastfetch. Light variant: theme github-light.
+theme: modus-vivendi
+
+window:
+  title: "wins.log"
+  width: 420
+  style: macos
+  autoHeight: true
+
+terminal:
+  fontSize: 15
+  lineHeight: 1.45
+  prompt: "$ "
+  padding: 16
+
+effects:
+  textGlow: false
+  scanlines: false
+  vignette: false
+  shadow: false
+
+animation:
+  loop: false
+  defaultTypingDuration: 400
+  outputLineStagger: 28
+  commandOutputPause: 100
+  outputEndPause: 30
+
+accessibility:
+  describe: true
+
+blocks:
+  - block: custom
+    typing: fast
+    config:
+      command: cat wins.log
+      lines:
+        - "[[fg:cyan]]2,400+[[/fg]] stores"
+        - "[[fg:cyan]]14[[/fg]] typed tools"
+        - "78 lakh CSAT"
+        - "3.82 lakh ORS"
+        - "1.42 lakh Google reviews"
+        - "estimated impact of ₹3.5 Cr+"
+        - "LeetCode Knight (1857)"
+        - "350+ problems"
+        - "Codeforces Specialist (1471)"
+        - "CodeChef 4-star (1800+)"
+        - "JEE Advanced 2022 AIR 10104"
+        - "JEE Mains 2022 AIR 6742"
+        - "Runner-up in the company's"
+        - "internal hackathon (2nd place)"

@@ -1,0 +1,60 @@
+<svg width="920" height="300" viewBox="0 0 920 300" xmlns="http://www.w3.org/2000/svg"
+  role="img" aria-label="Static terminal showing 8 lines">
+  <title>Static terminal showing 8 lines</title>
+  <desc>reso@github:~$ whoami
+name      Ayush
+handle    @0xReso
+role      Associate Data Scientist
+now       Data Science &amp; Innovation, Jul&apos;26–present
+builds    production data pipelines and agentic analytics systems
+before    Data Science Intern, Jan&apos;26–Jun&apos;26
+edu       B.Tech CSE, Delhi Technological University, 2022–2026, CGPA 8.36/10</desc>
+  <style>.tt { font-family: JetBrains Mono, Fira Code, Ubuntu Mono, Consolas, Monaco, monospace; font-size: 16px; white-space: pre; }</style>
+  <defs>
+    
+    
+    <clipPath id="terminalViewport">
+      <rect x="0" y="40" width="920" height="260"/>
+    </clipPath>
+  </defs>
+
+  <g>
+    
+    <rect x="0" y="0" width="920" height="300"
+          rx="12" ry="12"
+          fill="#ffffff"/>
+    
+    <rect x="0" y="0" width="920" height="40"
+          rx="12" ry="12"
+          fill="#ebebec"/>
+    <rect x="0" y="16" width="920" height="16"
+          fill="#ebebec"/>
+    <g id="window-controls">
+      <circle cx="24" cy="16" r="6" fill="#ff5f57" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+      <circle cx="44" cy="16" r="6" fill="#ffbd2e" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+      <circle cx="64" cy="16" r="6" fill="#28ca42" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+    </g>
+    <text x="460" y="24.55"
+          font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Helvetica, Arial, sans-serif" font-size="13"
+          fill="#1f2328" text-anchor="middle">
+      reso@github:~
+    </text>
+    <rect x="0" y="40" width="920"
+          height="260" fill="#ffffff"/>
+    <g clip-path="url(#terminalViewport)">
+      <g transform="translate(22, 54)">
+        
+      <text class="tt" y="0" fill="#1f2328">reso@github:~$ whoami</text>
+      <text class="tt" y="24.8"><tspan fill="#1b7c83">name</tspan><tspan fill="#1f2328">      Ayush</tspan></text>
+      <text class="tt" y="49.6"><tspan fill="#1b7c83">handle</tspan><tspan fill="#1f2328">    @0xReso</tspan></text>
+      <text class="tt" y="74.4"><tspan fill="#1b7c83">role</tspan><tspan fill="#1f2328">      Associate Data Scientist</tspan></text>
+      <text class="tt" y="99.2"><tspan fill="#1b7c83">now</tspan><tspan fill="#1f2328">       Data Science &amp; Innovation, Jul&apos;26–present</tspan></text>
+      <text class="tt" y="124"><tspan fill="#1b7c83">builds</tspan><tspan fill="#1f2328">    production data pipelines and agentic analytics systems</tspan></text>
+      <text class="tt" y="148.8"><tspan fill="#1b7c83">before</tspan><tspan fill="#1f2328">    Data Science Intern, Jan&apos;26–Jun&apos;26</tspan></text>
+      <text class="tt" y="173.6"><tspan fill="#1b7c83">edu</tspan><tspan fill="#1f2328">       B.Tech CSE, Delhi Technological University, 2022–2026, CGPA 8.36/10</tspan></text>
+      </g>
+    </g>
+    
+    
+  </g>
+</svg>

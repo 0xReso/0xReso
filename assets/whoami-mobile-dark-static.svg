@@ -1,0 +1,62 @@
+<svg width="420" height="300" viewBox="0 0 420 300" xmlns="http://www.w3.org/2000/svg"
+  role="img" aria-label="Static terminal showing 9 lines">
+  <title>Static terminal showing 9 lines</title>
+  <desc>$ whoami
+Ayush · @0xReso
+Associate Data Scientist
+Data Science &amp; Innovation
+Jul&apos;26–present
+production data pipelines
+and agentic analytics systems
+Data Science Intern, Jan&apos;26–Jun&apos;26
+B.Tech CSE, DTU, 2022–2026, 8.36/10</desc>
+  <style>.tt { font-family: JetBrains Mono, Fira Code, Ubuntu Mono, Consolas, Monaco, monospace; font-size: 15px; white-space: pre; }</style>
+  <defs>
+    
+    
+    <clipPath id="terminalViewport">
+      <rect x="0" y="40" width="420" height="260"/>
+    </clipPath>
+  </defs>
+
+  <g>
+    
+    <rect x="0" y="0" width="420" height="300"
+          rx="12" ry="12"
+          fill="#000000"/>
+    
+    <rect x="0" y="0" width="420" height="40"
+          rx="12" ry="12"
+          fill="#171717"/>
+    <rect x="0" y="16" width="420" height="16"
+          fill="#171717"/>
+    <g id="window-controls">
+      <circle cx="18" cy="16" r="6" fill="#ff5f57" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+      <circle cx="38" cy="16" r="6" fill="#ffbd2e" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+      <circle cx="58" cy="16" r="6" fill="#28ca42" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+    </g>
+    <text x="210" y="24.55"
+          font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Helvetica, Arial, sans-serif" font-size="13"
+          fill="#ffffff" text-anchor="middle">
+      whoami
+    </text>
+    <rect x="0" y="40" width="420"
+          height="260" fill="#000000"/>
+    <g clip-path="url(#terminalViewport)">
+      <g transform="translate(16, 54)">
+        
+      <text class="tt" y="0" fill="#ffffff">$ whoami</text>
+      <text class="tt" y="22.5"><tspan fill="#00d3d0">Ayush</tspan><tspan fill="#ffffff"> · @0xReso</tspan></text>
+      <text class="tt" y="45" fill="#ffffff">Associate Data Scientist</text>
+      <text class="tt" y="67.5" fill="#ffffff">Data Science &amp; Innovation</text>
+      <text class="tt" y="90" fill="#ffffff">Jul&apos;26–present</text>
+      <text class="tt" y="112.5" fill="#ffffff">production data pipelines</text>
+      <text class="tt" y="135" fill="#ffffff">and agentic analytics systems</text>
+      <text class="tt" y="157.5" fill="#ffffff">Data Science Intern, Jan&apos;26–Jun&apos;26</text>
+      <text class="tt" y="180" fill="#ffffff">B.Tech CSE, DTU, 2022–2026, 8.36/10</text>
+      </g>
+    </g>
+    
+    
+  </g>
+</svg>

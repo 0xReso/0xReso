@@ -1,0 +1,74 @@
+<svg width="420" height="413" viewBox="0 0 420 413" xmlns="http://www.w3.org/2000/svg"
+  role="img" aria-label="Static terminal showing 15 lines">
+  <title>Static terminal showing 15 lines</title>
+  <desc>$ cat wins.log
+2,400+ stores
+14 typed tools
+78 lakh CSAT
+3.82 lakh ORS
+1.42 lakh Google reviews
+estimated impact of ₹3.5 Cr+
+LeetCode Knight (1857)
+350+ problems
+Codeforces Specialist (1471)
+CodeChef 4-star (1800+)
+JEE Advanced 2022 AIR 10104
+JEE Mains 2022 AIR 6742
+Runner-up in the company&apos;s
+internal hackathon (2nd place)</desc>
+  <style>.tt { font-family: JetBrains Mono, Fira Code, Ubuntu Mono, Consolas, Monaco, monospace; font-size: 15px; white-space: pre; }</style>
+  <defs>
+    
+    
+    <clipPath id="terminalViewport">
+      <rect x="0" y="40" width="420" height="373"/>
+    </clipPath>
+  </defs>
+
+  <g>
+    
+    <rect x="0" y="0" width="420" height="413"
+          rx="12" ry="12"
+          fill="#000000"/>
+    
+    <rect x="0" y="0" width="420" height="40"
+          rx="12" ry="12"
+          fill="#171717"/>
+    <rect x="0" y="16" width="420" height="16"
+          fill="#171717"/>
+    <g id="window-controls">
+      <circle cx="18" cy="16" r="6" fill="#ff5f57" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+      <circle cx="38" cy="16" r="6" fill="#ffbd2e" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+      <circle cx="58" cy="16" r="6" fill="#28ca42" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+    </g>
+    <text x="210" y="24.55"
+          font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Helvetica, Arial, sans-serif" font-size="13"
+          fill="#ffffff" text-anchor="middle">
+      wins.log
+    </text>
+    <rect x="0" y="40" width="420"
+          height="373" fill="#000000"/>
+    <g clip-path="url(#terminalViewport)">
+      <g transform="translate(16, 54)">
+        
+      <text class="tt" y="0" fill="#ffffff">$ cat wins.log</text>
+      <text class="tt" y="21.8"><tspan fill="#00d3d0">2,400+</tspan><tspan fill="#ffffff"> stores</tspan></text>
+      <text class="tt" y="43.5"><tspan fill="#00d3d0">14</tspan><tspan fill="#ffffff"> typed tools</tspan></text>
+      <text class="tt" y="65.3" fill="#ffffff">78 lakh CSAT</text>
+      <text class="tt" y="87" fill="#ffffff">3.82 lakh ORS</text>
+      <text class="tt" y="108.8" fill="#ffffff">1.42 lakh Google reviews</text>
+      <text class="tt" y="130.5" fill="#ffffff">estimated impact of ₹3.5 Cr+</text>
+      <text class="tt" y="152.3" fill="#ffffff">LeetCode Knight (1857)</text>
+      <text class="tt" y="174" fill="#ffffff">350+ problems</text>
+      <text class="tt" y="195.8" fill="#ffffff">Codeforces Specialist (1471)</text>
+      <text class="tt" y="217.5" fill="#ffffff">CodeChef 4-star (1800+)</text>
+      <text class="tt" y="239.3" fill="#ffffff">JEE Advanced 2022 AIR 10104</text>
+      <text class="tt" y="261" fill="#ffffff">JEE Mains 2022 AIR 6742</text>
+      <text class="tt" y="282.8" fill="#ffffff">Runner-up in the company&apos;s</text>
+      <text class="tt" y="304.5" fill="#ffffff">internal hackathon (2nd place)</text>
+      </g>
+    </g>
+    
+    
+  </g>
+</svg>

@@ -1,0 +1,44 @@
+# $ whoami — desktop. Light variant is the same file with theme: github-light.
+theme: modus-vivendi
+
+window:
+  title: "reso@github:~"
+  width: 920
+  style: macos
+  autoHeight: true
+
+terminal:
+  fontSize: 16
+  lineHeight: 1.55
+  prompt: "reso@github:~$ "
+  padding: 22
+
+effects:
+  textGlow: false
+  scanlines: false
+  vignette: false
+  shadow: false
+
+animation:
+  loop: false
+  defaultTypingDuration: 700
+  outputLineStagger: 50
+  commandOutputPause: 160
+  outputEndPause: 60
+
+accessibility:
+  describe: true
+
+blocks:
+  - block: custom
+    typing: fast
+    config:
+      command: whoami
+      lines:
+        - "[[fg:cyan]]name[[/fg]]      Ayush"
+        - "[[fg:cyan]]handle[[/fg]]    @0xReso"
+        - "[[fg:cyan]]role[[/fg]]      Associate Data Scientist"
+        - "[[fg:cyan]]now[[/fg]]       Data Science & Innovation, Jul'26–present"
+        - "[[fg:cyan]]builds[[/fg]]    production data pipelines and agentic analytics systems"
+        - "[[fg:cyan]]before[[/fg]]    Data Science Intern, Jan'26–Jun'26"
+        - "[[fg:cyan]]edu[[/fg]]       B.Tech CSE, Delhi Technological University, 2022–2026, CGPA 8.36/10"
