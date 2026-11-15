@@ -6,10 +6,10 @@ caption should read Delhi, India, which is what the public site shows.
 The left label is rewritten to the portfolio's "+ (01)  Profile" form.
 
 The minimal theme's ink and paper are not configurable. After the accent
-override, this remaps those baked colors to black and white so the cards
-stay on black, white, and #1D9BF0. Empty heatmap cells use the same inks
-at low opacity. Hex replacements cannot hit the embedded font, which is
-base64 and contains no '#' bytes.
+override, this remaps those baked colors to black and white. Light cards
+use #0A74B8 for accent text and lines; dark cards keep #1D9BF0. Empty
+heatmap cells use the same inks at low opacity. Hex replacements cannot
+hit the embedded font, which is base64 and contains no '#' bytes.
 """
 
 from pathlib import Path
@@ -17,10 +17,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1] / "atelier"
 
 SKY = "#1D9BF0"
+LIGHT_SKY = "#0A74B8"
 LIGHT = {
-    "#ff4d00": SKY,
-    "#FF4D00": SKY,
-    "#1d9bf0": SKY,
+    "#ff4d00": LIGHT_SKY,
+    "#FF4D00": LIGHT_SKY,
+    "#1d9bf0": LIGHT_SKY,
+    "#1D9BF0": LIGHT_SKY,
     "#f2f2f0": "#ffffff",
     "#262626": "#000000",
     "#6a6a6a": "#000000",
@@ -29,6 +31,8 @@ DARK = {
     "#ff4d00": SKY,
     "#FF4D00": SKY,
     "#1d9bf0": SKY,
+    "#0a74b8": SKY,
+    "#0A74B8": SKY,
     "#0f0f0f": "#000000",
     "#ececea": "#ffffff",
     "#9a9a96": "#ffffff",

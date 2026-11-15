@@ -1,4 +1,4 @@
-# $ whoami — narrow layout. Light frames swap text and background to black on white.
+# $ whoami — narrow layout. Light frames swap text and background, and use #0A74B8 for accent text and lines.
 theme:
   name: sky
   colors:

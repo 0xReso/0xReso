@@ -1,4 +1,4 @@
-# $ cat wins.log — narrow. Technical figures only. Light frames swap text and background.
+# $ cat wins.log — narrow. Technical figures only. Light frames use #0A74B8 for accent text and lines.
 theme:
   name: sky
   colors:
