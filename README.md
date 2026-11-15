@@ -14,8 +14,8 @@
 <picture>
   <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/typing-dark.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/typing-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2200&pause=1800&color=ECECEA&background=00000000&center=false&vCenter=true&width=720&height=40&lines=Associate+Data+Scientist">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2200&pause=1800&color=262626&background=00000000&center=false&vCenter=true&width=720&height=40&lines=Associate+Data+Scientist" width="720" height="40" alt="Associate Data Scientist">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2200&pause=1800&color=FFFFFF&background=00000000&center=false&vCenter=true&width=720&height=40&lines=Associate+Data+Scientist">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2200&pause=1800&color=000000&background=00000000&center=false&vCenter=true&width=720&height=40&lines=Associate+Data+Scientist" width="720" height="40" alt="Associate Data Scientist">
 </picture>
 
 <!-- readme-atelier:start -->
@@ -35,16 +35,16 @@
 <h2><code>$ ls ~/projects</code> <sub>(04)</sub></h2>
 
 <p><strong>(Case study)</strong> <a href="https://0xreso.dev">Store.AI / IRA</a><br>
-Intelligent Restaurant Analytics: analyses 78 lakh CSAT, 3.82 lakh ORS and 1.42 lakh Google reviews, classified with Gemini into DuckDB and shown in a Streamlit dashboard with geo drill-down.</p>
+Weekly-refreshed ingestion of 8.3M+ customer feedback records into DuckDB, with a Streamlit dashboard that drills down by geography.</p>
 
 <p><strong>(Case study)</strong> <a href="https://0xreso.dev">Agentic analytics bot</a><br>
-AWS Bedrock (Claude Sonnet) bot with 14 typed DuckDB tools for plain-English questions across 2,400+ stores; uses up to 5 tool-use rounds, routing guards and parameterised SQL so answers stay grounded.</p>
+14 typed DuckDB-backed tools querying 2,400+ outlets via AWS Bedrock, helping drive personalised outlet improvements.</p>
 
 <p><strong>(Case study)</strong> <a href="https://0xreso.dev">Personalised menu sequencing</a><br>
 A LightFM recommender in production with recency boosting and scheduled reruns.</p>
 
-<p><strong>(Case study)</strong> <a href="https://0xreso.dev">Cashback experiment (intern)</a><br>
-Control–treatment cohorts on Redshift; tiered wallet cashback with an estimated impact of ₹3.5 Cr+.</p>
+<p><strong>(Case study)</strong> <a href="https://0xreso.dev">Experimentation pipeline (intern)</a><br>
+Automated outlet-matching pipeline for smooth experiment runs; these experiments contributed to modest business growth (details on request, DM me).</p>
 
 <p><strong>(Case study)</strong> <a href="https://0xreso.dev">Store clustering (intern)</a><br>
 K-Means on 6-month sales and footfall, split by pricing tier, with 1–2% intra-cluster variance.</p>
@@ -70,7 +70,7 @@ The public site for this work.</p>
   <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/wins-dark-static.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/wins-light-static.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/wins-dark.svg">
-  <img src="./assets/wins-light.svg" width="100%" alt="2,400+ stores covered by the agentic bot. 14 typed tools. 78 lakh CSAT, 3.82 lakh ORS, 1.42 lakh Google reviews. Estimated impact of ₹3.5 Cr+. LeetCode Knight (1857), 350+ problems. Codeforces Specialist (1471). CodeChef 4-star (1800+). JEE Advanced 2022 AIR 10104; JEE Mains 2022 AIR 6742. Runner-up in the company's internal hackathon (2nd place).">
+  <img src="./assets/wins-light.svg" width="100%" alt="8.3M+ customer feedback records, weekly refresh. 2,400+ outlets. 14 typed agent tools. LeetCode Knight (1857). Codeforces Specialist (1471). CodeChef 4-star (1800+).">
 </picture>
 
 <h2><code>$ cat ~/.stack</code> <sub>(07)</sub></h2>
@@ -78,8 +78,8 @@ The public site for this work.</p>
 <p><strong>+ (01)&nbsp;&nbsp;Languages and data</strong><br>
 Python · SQL · DuckDB · pandas · scikit-learn · Amazon Redshift</p>
 
-<p><strong>+ (02)&nbsp;&nbsp;AI</strong><br>
-AWS Bedrock (Claude Sonnet) · Gen AI (Gemini) · LightFM</p>
+<p><strong>+ (02)&nbsp;&nbsp;AI / agent engineering</strong><br>
+AWS Bedrock (Claude Sonnet) · AWS boto3 · Gemini API (batched requests) · LightFM · Claude · MCP · agent skills · agent config files (CLAUDE.md / AGENTS.md / Cursor rules)</p>
 
 <p><strong>+ (03)&nbsp;&nbsp;Apps and ops</strong><br>
 Streamlit · Linux (cron) · Jupyter</p>

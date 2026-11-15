@@ -1,5 +1,36 @@
-# $ cat wins.log — desktop fastfetch-style block. Light variant: theme github-light.
-theme: modus-vivendi
+# $ cat wins.log — desktop. Technical figures only. Light frames swap text and background.
+theme:
+  name: sky
+  colors:
+    text: "#ffffff"
+    comment: "#ffffff"
+    background: "#000000"
+    titleBarBackground: "#000000"
+    titleBarText: "#ffffff"
+    prompt: "#1D9BF0"
+    cursor: "#1D9BF0"
+    red: "#1D9BF0"
+    green: "#1D9BF0"
+    yellow: "#1D9BF0"
+    blue: "#1D9BF0"
+    magenta: "#1D9BF0"
+    cyan: "#1D9BF0"
+    white: "#ffffff"
+    orange: "#1D9BF0"
+    purple: "#1D9BF0"
+    pink: "#1D9BF0"
+    brightRed: "#1D9BF0"
+    brightGreen: "#1D9BF0"
+    brightYellow: "#1D9BF0"
+    brightBlue: "#1D9BF0"
+    brightMagenta: "#1D9BF0"
+    brightCyan: "#1D9BF0"
+    brightWhite: "#ffffff"
+    brightBlack: "#000000"
+  buttons:
+    close: "#1D9BF0"
+    minimize: "#1D9BF0"
+    maximize: "#1D9BF0"
 
 window:
   title: "reso@github:~"
@@ -35,14 +66,10 @@ blocks:
     config:
       command: cat wins.log
       lines:
-        - "[[fg:cyan]]stores[[/fg]]      2,400+ covered by the agentic bot"
-        - "[[fg:cyan]]tools[[/fg]]       14 typed tools"
-        - "[[fg:cyan]]csat[[/fg]]        78 lakh CSAT"
-        - "[[fg:cyan]]ors[[/fg]]         3.82 lakh ORS"
-        - "[[fg:cyan]]reviews[[/fg]]     1.42 lakh Google reviews"
-        - "[[fg:cyan]]impact[[/fg]]      estimated impact of ₹3.5 Cr+"
-        - "[[fg:cyan]]leetcode[[/fg]]    Knight (1857), 350+ problems"
+        - "[[fg:cyan]]records[[/fg]]     8.3M+ customer feedback records"
+        - "[[fg:cyan]]refresh[[/fg]]     weekly"
+        - "[[fg:cyan]]outlets[[/fg]]     2,400+ covered"
+        - "[[fg:cyan]]tools[[/fg]]       14 typed agent tools"
+        - "[[fg:cyan]]leetcode[[/fg]]    Knight (1857)"
         - "[[fg:cyan]]codeforces[[/fg]]  Specialist (1471)"
         - "[[fg:cyan]]codechef[[/fg]]    4-star (1800+)"
-        - "[[fg:cyan]]jee[[/fg]]         Advanced 2022 AIR 10104; Mains 2022 AIR 6742"
-        - "[[fg:cyan]]hackathon[[/fg]]   Runner-up in the company's internal hackathon (2nd place)"

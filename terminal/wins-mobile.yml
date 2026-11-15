@@ -1,5 +1,36 @@
-# $ cat wins.log — narrow fastfetch. Light variant: theme github-light.
-theme: modus-vivendi
+# $ cat wins.log — narrow. Technical figures only. Light frames swap text and background.
+theme:
+  name: sky
+  colors:
+    text: "#ffffff"
+    comment: "#ffffff"
+    background: "#000000"
+    titleBarBackground: "#000000"
+    titleBarText: "#ffffff"
+    prompt: "#1D9BF0"
+    cursor: "#1D9BF0"
+    red: "#1D9BF0"
+    green: "#1D9BF0"
+    yellow: "#1D9BF0"
+    blue: "#1D9BF0"
+    magenta: "#1D9BF0"
+    cyan: "#1D9BF0"
+    white: "#ffffff"
+    orange: "#1D9BF0"
+    purple: "#1D9BF0"
+    pink: "#1D9BF0"
+    brightRed: "#1D9BF0"
+    brightGreen: "#1D9BF0"
+    brightYellow: "#1D9BF0"
+    brightBlue: "#1D9BF0"
+    brightMagenta: "#1D9BF0"
+    brightCyan: "#1D9BF0"
+    brightWhite: "#ffffff"
+    brightBlack: "#000000"
+  buttons:
+    close: "#1D9BF0"
+    minimize: "#1D9BF0"
+    maximize: "#1D9BF0"
 
 window:
   title: "wins.log"
@@ -35,17 +66,10 @@ blocks:
     config:
       command: cat wins.log
       lines:
-        - "[[fg:cyan]]2,400+[[/fg]] stores"
-        - "[[fg:cyan]]14[[/fg]] typed tools"
-        - "78 lakh CSAT"
-        - "3.82 lakh ORS"
-        - "1.42 lakh Google reviews"
-        - "estimated impact of ₹3.5 Cr+"
+        - "[[fg:cyan]]8.3M+[[/fg]] customer feedback records"
+        - "[[fg:cyan]]weekly[[/fg]] refresh"
+        - "[[fg:cyan]]2,400+[[/fg]] outlets"
+        - "[[fg:cyan]]14[[/fg]] typed agent tools"
         - "LeetCode Knight (1857)"
-        - "350+ problems"
         - "Codeforces Specialist (1471)"
         - "CodeChef 4-star (1800+)"
-        - "JEE Advanced 2022 AIR 10104"
-        - "JEE Mains 2022 AIR 6742"
-        - "Runner-up in the company's"
-        - "internal hackathon (2nd place)"

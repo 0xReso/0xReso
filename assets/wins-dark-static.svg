@@ -1,42 +1,38 @@
-<svg width="920" height="386" viewBox="0 0 920 386" xmlns="http://www.w3.org/2000/svg"
-  role="img" aria-label="Static terminal showing 12 lines">
-  <title>Static terminal showing 12 lines</title>
+<svg width="920" height="300" viewBox="0 0 920 300" xmlns="http://www.w3.org/2000/svg"
+  role="img" aria-label="Static terminal showing 8 lines">
+  <title>Static terminal showing 8 lines</title>
   <desc>reso@github:~$ cat wins.log
-stores      2,400+ covered by the agentic bot
-tools       14 typed tools
-csat        78 lakh CSAT
-ors         3.82 lakh ORS
-reviews     1.42 lakh Google reviews
-impact      estimated impact of ₹3.5 Cr+
-leetcode    Knight (1857), 350+ problems
+records     8.3M+ customer feedback records
+refresh     weekly
+outlets     2,400+ covered
+tools       14 typed agent tools
+leetcode    Knight (1857)
 codeforces  Specialist (1471)
-codechef    4-star (1800+)
-jee         Advanced 2022 AIR 10104; Mains 2022 AIR 6742
-hackathon   Runner-up in the company&apos;s internal hackathon (2nd place)</desc>
+codechef    4-star (1800+)</desc>
   <style>.tt { font-family: JetBrains Mono, Fira Code, Ubuntu Mono, Consolas, Monaco, monospace; font-size: 16px; white-space: pre; }</style>
   <defs>
     
     
     <clipPath id="terminalViewport">
-      <rect x="0" y="40" width="920" height="346"/>
+      <rect x="0" y="40" width="920" height="260"/>
     </clipPath>
   </defs>
 
   <g>
     
-    <rect x="0" y="0" width="920" height="386"
+    <rect x="0" y="0" width="920" height="300"
           rx="12" ry="12"
           fill="#000000"/>
     
     <rect x="0" y="0" width="920" height="40"
           rx="12" ry="12"
-          fill="#171717"/>
+          fill="#000000"/>
     <rect x="0" y="16" width="920" height="16"
-          fill="#171717"/>
+          fill="#000000"/>
     <g id="window-controls">
-      <circle cx="24" cy="16" r="6" fill="#ff5f57" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
-      <circle cx="44" cy="16" r="6" fill="#ffbd2e" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
-      <circle cx="64" cy="16" r="6" fill="#28ca42" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+      <circle cx="24" cy="16" r="6" fill="#1D9BF0" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+      <circle cx="44" cy="16" r="6" fill="#1D9BF0" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+      <circle cx="64" cy="16" r="6" fill="#1D9BF0" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
     </g>
     <text x="460" y="24.55"
           font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Helvetica, Arial, sans-serif" font-size="13"
@@ -44,22 +40,18 @@ hackathon   Runner-up in the company&apos;s internal hackathon (2nd place)</desc
       reso@github:~
     </text>
     <rect x="0" y="40" width="920"
-          height="346" fill="#000000"/>
+          height="260" fill="#000000"/>
     <g clip-path="url(#terminalViewport)">
       <g transform="translate(22, 54)">
         
       <text class="tt" y="0" fill="#ffffff">reso@github:~$ cat wins.log</text>
-      <text class="tt" y="24"><tspan fill="#00d3d0">stores</tspan><tspan fill="#ffffff">      2,400+ covered by the agentic bot</tspan></text>
-      <text class="tt" y="48"><tspan fill="#00d3d0">tools</tspan><tspan fill="#ffffff">       14 typed tools</tspan></text>
-      <text class="tt" y="72"><tspan fill="#00d3d0">csat</tspan><tspan fill="#ffffff">        78 lakh CSAT</tspan></text>
-      <text class="tt" y="96"><tspan fill="#00d3d0">ors</tspan><tspan fill="#ffffff">         3.82 lakh ORS</tspan></text>
-      <text class="tt" y="120"><tspan fill="#00d3d0">reviews</tspan><tspan fill="#ffffff">     1.42 lakh Google reviews</tspan></text>
-      <text class="tt" y="144"><tspan fill="#00d3d0">impact</tspan><tspan fill="#ffffff">      estimated impact of ₹3.5 Cr+</tspan></text>
-      <text class="tt" y="168"><tspan fill="#00d3d0">leetcode</tspan><tspan fill="#ffffff">    Knight (1857), 350+ problems</tspan></text>
-      <text class="tt" y="192"><tspan fill="#00d3d0">codeforces</tspan><tspan fill="#ffffff">  Specialist (1471)</tspan></text>
-      <text class="tt" y="216"><tspan fill="#00d3d0">codechef</tspan><tspan fill="#ffffff">    4-star (1800+)</tspan></text>
-      <text class="tt" y="240"><tspan fill="#00d3d0">jee</tspan><tspan fill="#ffffff">         Advanced 2022 AIR 10104; Mains 2022 AIR 6742</tspan></text>
-      <text class="tt" y="264"><tspan fill="#00d3d0">hackathon</tspan><tspan fill="#ffffff">   Runner-up in the company&apos;s internal hackathon (2nd place)</tspan></text>
+      <text class="tt" y="24"><tspan fill="#1D9BF0">records</tspan><tspan fill="#ffffff">     8.3M+ customer feedback records</tspan></text>
+      <text class="tt" y="48"><tspan fill="#1D9BF0">refresh</tspan><tspan fill="#ffffff">     weekly</tspan></text>
+      <text class="tt" y="72"><tspan fill="#1D9BF0">outlets</tspan><tspan fill="#ffffff">     2,400+ covered</tspan></text>
+      <text class="tt" y="96"><tspan fill="#1D9BF0">tools</tspan><tspan fill="#ffffff">       14 typed agent tools</tspan></text>
+      <text class="tt" y="120"><tspan fill="#1D9BF0">leetcode</tspan><tspan fill="#ffffff">    Knight (1857)</tspan></text>
+      <text class="tt" y="144"><tspan fill="#1D9BF0">codeforces</tspan><tspan fill="#ffffff">  Specialist (1471)</tspan></text>
+      <text class="tt" y="168"><tspan fill="#1D9BF0">codechef</tspan><tspan fill="#ffffff">    4-star (1800+)</tspan></text>
       </g>
     </g>
     

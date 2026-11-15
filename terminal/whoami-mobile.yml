@@ -1,5 +1,36 @@
-# $ whoami — narrow layout. Light variant uses theme: github-light.
-theme: modus-vivendi
+# $ whoami — narrow layout. Light frames swap text and background to black on white.
+theme:
+  name: sky
+  colors:
+    text: "#ffffff"
+    comment: "#ffffff"
+    background: "#000000"
+    titleBarBackground: "#000000"
+    titleBarText: "#ffffff"
+    prompt: "#1D9BF0"
+    cursor: "#1D9BF0"
+    red: "#1D9BF0"
+    green: "#1D9BF0"
+    yellow: "#1D9BF0"
+    blue: "#1D9BF0"
+    magenta: "#1D9BF0"
+    cyan: "#1D9BF0"
+    white: "#ffffff"
+    orange: "#1D9BF0"
+    purple: "#1D9BF0"
+    pink: "#1D9BF0"
+    brightRed: "#1D9BF0"
+    brightGreen: "#1D9BF0"
+    brightYellow: "#1D9BF0"
+    brightBlue: "#1D9BF0"
+    brightMagenta: "#1D9BF0"
+    brightCyan: "#1D9BF0"
+    brightWhite: "#ffffff"
+    brightBlack: "#000000"
+  buttons:
+    close: "#1D9BF0"
+    minimize: "#1D9BF0"
+    maximize: "#1D9BF0"
 
 window:
   title: "whoami"
