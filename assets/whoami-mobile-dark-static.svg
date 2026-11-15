@@ -3,13 +3,13 @@
   <title>Static terminal showing 9 lines</title>
   <desc>$ whoami
 Ayush · @0xReso
-Associate Data Scientist
-Data Science &amp; Innovation
-Jul&apos;26–present
-production data pipelines
-and agentic analytics systems
-Data Science Intern, Jan&apos;26–Jun&apos;26
-B.Tech CSE, DTU, 2022–2026, 8.36/10</desc>
+Data and agent engineer
+New Delhi
+data pipelines and
+agentic analytics tools
+B.Tech CSE, DTU &apos;26
+medium.com/@0xReso
+0xreso.github.io/upskiller-notes</desc>
   <style>.tt { font-family: JetBrains Mono, Fira Code, Ubuntu Mono, Consolas, Monaco, monospace; font-size: 15px; white-space: pre; }</style>
   <defs>
     
@@ -47,13 +47,13 @@ B.Tech CSE, DTU, 2022–2026, 8.36/10</desc>
         
       <text class="tt" y="0" fill="#ffffff">$ whoami</text>
       <text class="tt" y="22.5"><tspan fill="#1D9BF0">Ayush</tspan><tspan fill="#ffffff"> · @0xReso</tspan></text>
-      <text class="tt" y="45" fill="#ffffff">Associate Data Scientist</text>
-      <text class="tt" y="67.5" fill="#ffffff">Data Science &amp; Innovation</text>
-      <text class="tt" y="90" fill="#ffffff">Jul&apos;26–present</text>
-      <text class="tt" y="112.5" fill="#ffffff">production data pipelines</text>
-      <text class="tt" y="135" fill="#ffffff">and agentic analytics systems</text>
-      <text class="tt" y="157.5" fill="#ffffff">Data Science Intern, Jan&apos;26–Jun&apos;26</text>
-      <text class="tt" y="180" fill="#ffffff">B.Tech CSE, DTU, 2022–2026, 8.36/10</text>
+      <text class="tt" y="45" fill="#ffffff">Data and agent engineer</text>
+      <text class="tt" y="67.5" fill="#ffffff">New Delhi</text>
+      <text class="tt" y="90" fill="#ffffff">data pipelines and</text>
+      <text class="tt" y="112.5" fill="#ffffff">agentic analytics tools</text>
+      <text class="tt" y="135" fill="#ffffff">B.Tech CSE, DTU &apos;26</text>
+      <text class="tt" y="157.5" fill="#ffffff">medium.com/@0xReso</text>
+      <text class="tt" y="180" fill="#ffffff">0xreso.github.io/upskiller-notes</text>
       </g>
     </g>
     

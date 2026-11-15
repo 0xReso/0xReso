@@ -1,14 +1,15 @@
-<svg width="920" height="300" viewBox="0 0 920 300" xmlns="http://www.w3.org/2000/svg"
+<svg width="920" height="322" viewBox="0 0 920 322" xmlns="http://www.w3.org/2000/svg"
   role="img" aria-label="Animated terminal showing: whoami">
   <title>Animated terminal showing: whoami</title>
   <desc>reso@github:~$ whoami
 name      Ayush
 handle    @0xReso
-role      Associate Data Scientist
-now       Data Science &amp; Innovation, Jul&apos;26–present
-builds    production data pipelines and agentic analytics systems
-before    Data Science Intern, Jan&apos;26–Jun&apos;26
-edu       B.Tech CSE, Delhi Technological University, 2022–2026, CGPA 8.36/10</desc>
+role      Data and agent engineer
+place     New Delhi
+builds    data pipelines and agentic analytics tools
+edu       B.Tech CSE, DTU &apos;26
+writing   medium.com/@0xReso
+notes     0xreso.github.io/upskiller-notes</desc>
   <style>
     .tt { font-family: JetBrains Mono, Fira Code, Ubuntu Mono, Consolas, Monaco, monospace; font-size: 16px; white-space: pre; }
     @keyframes scanlineScroll {
@@ -43,13 +44,13 @@ edu       B.Tech CSE, Delhi Technological University, 2022–2026, CGPA 8.36/10<
     
     
     <clipPath id="terminalViewport">
-      <rect x="0" y="40" width="920" height="260"/>
+      <rect x="0" y="40" width="920" height="282"/>
     </clipPath>
   </defs>
 
   <g>
     
-    <rect x="0" y="0" width="920" height="300"
+    <rect x="0" y="0" width="920" height="322"
           rx="12" ry="12"
           fill="#000000"/>
     
@@ -70,7 +71,7 @@ edu       B.Tech CSE, Delhi Technological University, 2022–2026, CGPA 8.36/10<
     </text>
     
     <rect x="0" y="40" width="920"
-          height="260" fill="#000000"/>
+          height="282" fill="#000000"/>
     <g clip-path="url(#terminalViewport)">
       <g id="scrollContainer" transform="translate(22, 54)">
         
@@ -97,23 +98,27 @@ edu       B.Tech CSE, Delhi Technological University, 2022–2026, CGPA 8.36/10<
     </g>
 
     <g transform="translate(0, 74.4)" class="fade-in" style="animation-delay: 760ms">
-      <text class="tt"><tspan fill="#1D9BF0">role</tspan><tspan fill="#ffffff">      Associate Data Scientist</tspan></text>
+      <text class="tt"><tspan fill="#1D9BF0">role</tspan><tspan fill="#ffffff">      Data and agent engineer</tspan></text>
     </g>
 
     <g transform="translate(0, 99.2)" class="fade-in" style="animation-delay: 810ms">
-      <text class="tt"><tspan fill="#1D9BF0">now</tspan><tspan fill="#ffffff">       Data Science &amp; Innovation, Jul&apos;26–present</tspan></text>
+      <text class="tt"><tspan fill="#1D9BF0">place</tspan><tspan fill="#ffffff">     New Delhi</tspan></text>
     </g>
 
     <g transform="translate(0, 124)" class="fade-in" style="animation-delay: 860ms">
-      <text class="tt"><tspan fill="#1D9BF0">builds</tspan><tspan fill="#ffffff">    production data pipelines and agentic analytics systems</tspan></text>
+      <text class="tt"><tspan fill="#1D9BF0">builds</tspan><tspan fill="#ffffff">    data pipelines and agentic analytics tools</tspan></text>
     </g>
 
     <g transform="translate(0, 148.8)" class="fade-in" style="animation-delay: 910ms">
-      <text class="tt"><tspan fill="#1D9BF0">before</tspan><tspan fill="#ffffff">    Data Science Intern, Jan&apos;26–Jun&apos;26</tspan></text>
+      <text class="tt"><tspan fill="#1D9BF0">edu</tspan><tspan fill="#ffffff">       B.Tech CSE, DTU &apos;26</tspan></text>
     </g>
 
     <g transform="translate(0, 173.6)" class="fade-in" style="animation-delay: 960ms">
-      <text class="tt"><tspan fill="#1D9BF0">edu</tspan><tspan fill="#ffffff">       B.Tech CSE, Delhi Technological University, 2022–2026, CGPA 8.36/10</tspan></text>
+      <text class="tt"><tspan fill="#1D9BF0">writing</tspan><tspan fill="#ffffff">   medium.com/@0xReso</tspan></text>
+    </g>
+
+    <g transform="translate(0, 198.4)" class="fade-in" style="animation-delay: 1010ms">
+      <text class="tt"><tspan fill="#1D9BF0">notes</tspan><tspan fill="#ffffff">     0xreso.github.io/upskiller-notes</tspan></text>
     </g>
       </g>
     </g>

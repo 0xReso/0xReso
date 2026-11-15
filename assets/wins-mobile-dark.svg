@@ -2,13 +2,10 @@
   role="img" aria-label="Animated terminal showing: cat wins.log">
   <title>Animated terminal showing: cat wins.log</title>
   <desc>$ cat wins.log
-8.3M+ customer feedback records
-weekly refresh
+14 typed tools
 2,400+ outlets
-14 typed agent tools
-LeetCode Knight (1857)
-Codeforces Specialist (1471)
-CodeChef 4-star (1800+)</desc>
+8.3M+ customer records
+weekly refresh</desc>
   <style>
     .tt { font-family: JetBrains Mono, Fira Code, Ubuntu Mono, Consolas, Monaco, monospace; font-size: 15px; white-space: pre; }
     @keyframes scanlineScroll {
@@ -89,31 +86,19 @@ CodeChef 4-star (1800+)</desc>
     </g>
 
     <g transform="translate(0, 21.8)" class="fade-in" style="animation-delay: 600ms">
-      <text class="tt"><tspan fill="#1D9BF0">8.3M+</tspan><tspan fill="#ffffff"> customer feedback records</tspan></text>
+      <text class="tt"><tspan fill="#1D9BF0">14</tspan><tspan fill="#ffffff"> typed tools</tspan></text>
     </g>
 
     <g transform="translate(0, 43.5)" class="fade-in" style="animation-delay: 628ms">
-      <text class="tt"><tspan fill="#1D9BF0">weekly</tspan><tspan fill="#ffffff"> refresh</tspan></text>
-    </g>
-
-    <g transform="translate(0, 65.3)" class="fade-in" style="animation-delay: 656ms">
       <text class="tt"><tspan fill="#1D9BF0">2,400+</tspan><tspan fill="#ffffff"> outlets</tspan></text>
     </g>
 
+    <g transform="translate(0, 65.3)" class="fade-in" style="animation-delay: 656ms">
+      <text class="tt"><tspan fill="#1D9BF0">8.3M+</tspan><tspan fill="#ffffff"> customer records</tspan></text>
+    </g>
+
     <g transform="translate(0, 87)" class="fade-in" style="animation-delay: 684ms">
-      <text class="tt"><tspan fill="#1D9BF0">14</tspan><tspan fill="#ffffff"> typed agent tools</tspan></text>
-    </g>
-
-    <g transform="translate(0, 108.8)" class="fade-in" style="animation-delay: 712ms">
-      <text class="tt" fill="#ffffff">LeetCode Knight (1857)</text>
-    </g>
-
-    <g transform="translate(0, 130.5)" class="fade-in" style="animation-delay: 740ms">
-      <text class="tt" fill="#ffffff">Codeforces Specialist (1471)</text>
-    </g>
-
-    <g transform="translate(0, 152.3)" class="fade-in" style="animation-delay: 768ms">
-      <text class="tt" fill="#ffffff">CodeChef 4-star (1800+)</text>
+      <text class="tt"><tspan fill="#1D9BF0">weekly</tspan><tspan fill="#ffffff"> refresh</tspan></text>
     </g>
       </g>
     </g>

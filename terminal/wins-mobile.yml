@@ -66,10 +66,7 @@ blocks:
     config:
       command: cat wins.log
       lines:
-        - "[[fg:cyan]]8.3M+[[/fg]] customer feedback records"
-        - "[[fg:cyan]]weekly[[/fg]] refresh"
+        - "[[fg:cyan]]14[[/fg]] typed tools"
         - "[[fg:cyan]]2,400+[[/fg]] outlets"
-        - "[[fg:cyan]]14[[/fg]] typed agent tools"
-        - "LeetCode Knight (1857)"
-        - "Codeforces Specialist (1471)"
-        - "CodeChef 4-star (1800+)"
+        - "[[fg:cyan]]8.3M+[[/fg]] customer records"
+        - "[[fg:cyan]]weekly[[/fg]] refresh"
