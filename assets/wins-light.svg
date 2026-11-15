@@ -2,13 +2,10 @@
   role="img" aria-label="Animated terminal showing: cat wins.log">
   <title>Animated terminal showing: cat wins.log</title>
   <desc>reso@github:~$ cat wins.log
-records     8.3M+ customer feedback records
-refresh     weekly
-outlets     2,400+ covered
-tools       14 typed agent tools
-leetcode    Knight (1857)
-codeforces  Specialist (1471)
-codechef    4-star (1800+)</desc>
+tools     14 typed tools
+outlets   2,400+
+records   8.3M+ customer records
+refresh   weekly</desc>
   <style>
     .tt { font-family: JetBrains Mono, Fira Code, Ubuntu Mono, Consolas, Monaco, monospace; font-size: 16px; white-space: pre; }
     @keyframes scanlineScroll {
@@ -89,31 +86,19 @@ codechef    4-star (1800+)</desc>
     </g>
 
     <g transform="translate(0, 24)" class="fade-in" style="animation-delay: 640ms">
-      <text class="tt"><tspan fill="#0A74B8">records</tspan><tspan fill="#000000">     8.3M+ customer feedback records</tspan></text>
+      <text class="tt"><tspan fill="#0A74B8">tools</tspan><tspan fill="#000000">     14 typed tools</tspan></text>
     </g>
 
     <g transform="translate(0, 48)" class="fade-in" style="animation-delay: 676ms">
-      <text class="tt"><tspan fill="#0A74B8">refresh</tspan><tspan fill="#000000">     weekly</tspan></text>
+      <text class="tt"><tspan fill="#0A74B8">outlets</tspan><tspan fill="#000000">   2,400+</tspan></text>
     </g>
 
     <g transform="translate(0, 72)" class="fade-in" style="animation-delay: 712ms">
-      <text class="tt"><tspan fill="#0A74B8">outlets</tspan><tspan fill="#000000">     2,400+ covered</tspan></text>
+      <text class="tt"><tspan fill="#0A74B8">records</tspan><tspan fill="#000000">   8.3M+ customer records</tspan></text>
     </g>
 
     <g transform="translate(0, 96)" class="fade-in" style="animation-delay: 748ms">
-      <text class="tt"><tspan fill="#0A74B8">tools</tspan><tspan fill="#000000">       14 typed agent tools</tspan></text>
-    </g>
-
-    <g transform="translate(0, 120)" class="fade-in" style="animation-delay: 784ms">
-      <text class="tt"><tspan fill="#0A74B8">leetcode</tspan><tspan fill="#000000">    Knight (1857)</tspan></text>
-    </g>
-
-    <g transform="translate(0, 144)" class="fade-in" style="animation-delay: 820ms">
-      <text class="tt"><tspan fill="#0A74B8">codeforces</tspan><tspan fill="#000000">  Specialist (1471)</tspan></text>
-    </g>
-
-    <g transform="translate(0, 168)" class="fade-in" style="animation-delay: 856ms">
-      <text class="tt"><tspan fill="#0A74B8">codechef</tspan><tspan fill="#000000">    4-star (1800+)</tspan></text>
+      <text class="tt"><tspan fill="#0A74B8">refresh</tspan><tspan fill="#000000">   weekly</tspan></text>
     </g>
       </g>
     </g>

@@ -67,10 +67,10 @@ blocks:
       command: whoami
       lines:
         - "[[fg:cyan]]Ayush[[/fg]] · @0xReso"
-        - "Associate Data Scientist"
-        - "Data Science & Innovation"
-        - "Jul'26–present"
-        - "production data pipelines"
-        - "and agentic analytics systems"
-        - "Data Science Intern, Jan'26–Jun'26"
-        - "B.Tech CSE, DTU, 2022–2026, 8.36/10"
+        - "Data and agent engineer"
+        - "New Delhi"
+        - "data pipelines and"
+        - "agentic analytics tools"
+        - "B.Tech CSE, DTU '26"
+        - "medium.com/@0xReso"
+        - "0xreso.github.io/upskiller-notes"

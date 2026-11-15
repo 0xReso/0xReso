@@ -3,13 +3,13 @@
   <title>Animated terminal showing: whoami</title>
   <desc>$ whoami
 Ayush · @0xReso
-Associate Data Scientist
-Data Science &amp; Innovation
-Jul&apos;26–present
-production data pipelines
-and agentic analytics systems
-Data Science Intern, Jan&apos;26–Jun&apos;26
-B.Tech CSE, DTU, 2022–2026, 8.36/10</desc>
+Data and agent engineer
+New Delhi
+data pipelines and
+agentic analytics tools
+B.Tech CSE, DTU &apos;26
+medium.com/@0xReso
+0xreso.github.io/upskiller-notes</desc>
   <style>
     .tt { font-family: JetBrains Mono, Fira Code, Ubuntu Mono, Consolas, Monaco, monospace; font-size: 15px; white-space: pre; }
     @keyframes scanlineScroll {
@@ -94,31 +94,31 @@ B.Tech CSE, DTU, 2022–2026, 8.36/10</desc>
     </g>
 
     <g transform="translate(0, 45)" class="fade-in" style="animation-delay: 660ms">
-      <text class="tt" fill="#ffffff">Associate Data Scientist</text>
+      <text class="tt" fill="#ffffff">Data and agent engineer</text>
     </g>
 
     <g transform="translate(0, 67.5)" class="fade-in" style="animation-delay: 700ms">
-      <text class="tt" fill="#ffffff">Data Science &amp; Innovation</text>
+      <text class="tt" fill="#ffffff">New Delhi</text>
     </g>
 
     <g transform="translate(0, 90)" class="fade-in" style="animation-delay: 740ms">
-      <text class="tt" fill="#ffffff">Jul&apos;26–present</text>
+      <text class="tt" fill="#ffffff">data pipelines and</text>
     </g>
 
     <g transform="translate(0, 112.5)" class="fade-in" style="animation-delay: 780ms">
-      <text class="tt" fill="#ffffff">production data pipelines</text>
+      <text class="tt" fill="#ffffff">agentic analytics tools</text>
     </g>
 
     <g transform="translate(0, 135)" class="fade-in" style="animation-delay: 820ms">
-      <text class="tt" fill="#ffffff">and agentic analytics systems</text>
+      <text class="tt" fill="#ffffff">B.Tech CSE, DTU &apos;26</text>
     </g>
 
     <g transform="translate(0, 157.5)" class="fade-in" style="animation-delay: 860ms">
-      <text class="tt" fill="#ffffff">Data Science Intern, Jan&apos;26–Jun&apos;26</text>
+      <text class="tt" fill="#ffffff">medium.com/@0xReso</text>
     </g>
 
     <g transform="translate(0, 180)" class="fade-in" style="animation-delay: 900ms">
-      <text class="tt" fill="#ffffff">B.Tech CSE, DTU, 2022–2026, 8.36/10</text>
+      <text class="tt" fill="#ffffff">0xreso.github.io/upskiller-notes</text>
     </g>
       </g>
     </g>
