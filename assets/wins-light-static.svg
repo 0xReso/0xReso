@@ -1,0 +1,60 @@
+<svg width="920" height="300" viewBox="0 0 920 300" xmlns="http://www.w3.org/2000/svg"
+  role="img" aria-label="Static terminal showing 8 lines">
+  <title>Static terminal showing 8 lines</title>
+  <desc>reso@github:~$ cat wins.log
+records     8.3M+ customer feedback records
+refresh     weekly
+outlets     2,400+ covered
+tools       14 typed agent tools
+leetcode    Knight (1857)
+codeforces  Specialist (1471)
+codechef    4-star (1800+)</desc>
+  <style>.tt { font-family: JetBrains Mono, Fira Code, Ubuntu Mono, Consolas, Monaco, monospace; font-size: 16px; white-space: pre; }</style>
+  <defs>
+    
+    
+    <clipPath id="terminalViewport">
+      <rect x="0" y="40" width="920" height="260"/>
+    </clipPath>
+  </defs>
+
+  <g>
+    
+    <rect x="0" y="0" width="920" height="300"
+          rx="12" ry="12"
+          fill="#ffffff"/>
+    
+    <rect x="0" y="0" width="920" height="40"
+          rx="12" ry="12"
+          fill="#ffffff"/>
+    <rect x="0" y="16" width="920" height="16"
+          fill="#ffffff"/>
+    <g id="window-controls">
+      <circle cx="24" cy="16" r="6" fill="#1D9BF0" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+      <circle cx="44" cy="16" r="6" fill="#1D9BF0" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+      <circle cx="64" cy="16" r="6" fill="#1D9BF0" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+    </g>
+    <text x="460" y="24.55"
+          font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Helvetica, Arial, sans-serif" font-size="13"
+          fill="#000000" text-anchor="middle">
+      reso@github:~
+    </text>
+    <rect x="0" y="40" width="920"
+          height="260" fill="#ffffff"/>
+    <g clip-path="url(#terminalViewport)">
+      <g transform="translate(22, 54)">
+        
+      <text class="tt" y="0" fill="#000000">reso@github:~$ cat wins.log</text>
+      <text class="tt" y="24"><tspan fill="#0A74B8">records</tspan><tspan fill="#000000">     8.3M+ customer feedback records</tspan></text>
+      <text class="tt" y="48"><tspan fill="#0A74B8">refresh</tspan><tspan fill="#000000">     weekly</tspan></text>
+      <text class="tt" y="72"><tspan fill="#0A74B8">outlets</tspan><tspan fill="#000000">     2,400+ covered</tspan></text>
+      <text class="tt" y="96"><tspan fill="#0A74B8">tools</tspan><tspan fill="#000000">       14 typed agent tools</tspan></text>
+      <text class="tt" y="120"><tspan fill="#0A74B8">leetcode</tspan><tspan fill="#000000">    Knight (1857)</tspan></text>
+      <text class="tt" y="144"><tspan fill="#0A74B8">codeforces</tspan><tspan fill="#000000">  Specialist (1471)</tspan></text>
+      <text class="tt" y="168"><tspan fill="#0A74B8">codechef</tspan><tspan fill="#000000">    4-star (1800+)</tspan></text>
+      </g>
+    </g>
+    
+    
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+# Readme Atelier: edit this file, commit, and the profile cards rebuild.
+# Theme: minimal (editorial). Docs: https://github.com/monokernn/readme-atelier#config
+
+username: 0xReso
+theme: minimal
+name: Ayush / 0xReso
+tagline: Associate Data Scientist
+about:
+  - Data Science & Innovation, Jul'26–present
+  - Pipelines and agentic analytics systems
+  - B.Tech CSE, DTU, 2022–2026, 8.36/10
+accent: "#1D9BF0"
+sections:
+  - header
+  - stats
+  - activity
