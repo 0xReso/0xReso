@@ -32,7 +32,7 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/languages-dark.fe73bd86.svg"/><img src="./atelier/languages.dc661822.svg" width="100%" alt="Top languages"/></picture>
 </p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.2d6e8c2d.svg"/><img src="./atelier/activity.ef3daf22.svg" width="100%" alt="Contribution activity"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.ac8f39df.svg"/><img src="./atelier/activity.d017887c.svg" width="100%" alt="Contribution activity"/></picture></p>
 
 <!-- readme-atelier:end -->
 
