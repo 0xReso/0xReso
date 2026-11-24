@@ -28,11 +28,11 @@
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/header-dark.397e397d.svg"/><img src="./atelier/header.1512b40d.svg" width="100%" alt="Ayush / 0xReso"/></picture></p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/stats-dark.68bfc96e.svg"/><img src="./atelier/stats.8526c74c.svg" width="100%" alt="GitHub stats"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/stats-dark.c78bc1bd.svg"/><img src="./atelier/stats.4d9429d7.svg" width="100%" alt="GitHub stats"/></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/languages-dark.fe73bd86.svg"/><img src="./atelier/languages.dc661822.svg" width="100%" alt="Top languages"/></picture>
 </p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.2e119e24.svg"/><img src="./atelier/activity.afa8b0c5.svg" width="100%" alt="Contribution activity"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.5b7eca29.svg"/><img src="./atelier/activity.1cb9f054.svg" width="100%" alt="Contribution activity"/></picture></p>
 
 <!-- readme-atelier:end -->
 
